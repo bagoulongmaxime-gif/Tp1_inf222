@@ -59,5 +59,5 @@ GET `/api/articles/search?query=backend`
 
 ## Rapport
 
-- Page de garde : [NOM PRÉNOM MATRICULE]
+- Page de garde : NOM PRÉNOM MATRICULE
 - Introduction, Partie 1 (Utilisation de CleeRoute), Partie 2 (API), Partie 3 (analyse critique), Conclusion.
